@@ -7,6 +7,11 @@ body {
     font-family: "proxima-nova", "Myriad Pro", Arial, sans-serif;
 }
 
+h3 {
+    color: #e00024;
+    font-size: 22px;
+}
+
 /* Collapsible sections using native <details>/<summary> */
 .collapsible_text {
     background-color: #dc001e;
