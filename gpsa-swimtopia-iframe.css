@@ -5,11 +5,16 @@
 
 body {
     font-family: "proxima-nova", "Myriad Pro", Arial, sans-serif;
+    padding-bottom: 16px;
 }
 
 h3 {
     color: #e00024;
     font-size: 22px;
+}
+
+a {
+    color: #0085c8;
 }
 
 /* Collapsible sections using native <details>/<summary> */
